@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Taofeek Adeyemi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/taofeekadeyemi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/taofeek-adeyemi/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:taofeekadeyemi22@gmail.com)
 
 I design and deliver scalable cloud solutions, combining hands-on AWS development with 10+ years of technical project leadership.
