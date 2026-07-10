@@ -39,7 +39,6 @@ A production-ready, event-driven serverless order processing system built on AWS
 ## 📫 Let's Connect
 * 💼 [**LinkedIn**](https://www.linkedin.com/in/taofeekadeyemi/)
 * 📧 **Email:** [taofeekadeyemi22@gmail.com](mailto:taofeekadeyemi22@gmail.com)
-* 📱 **Phone:** +1 416 835 4513
 * 🌍 **Location:** Toronto, Canada
 
 ---
