@@ -47,7 +47,7 @@ A production-ready, event-driven serverless order processing system built on AWS
 💡 **Looking for a Cloud Engineer or Technical Project Manager?**
 Let’s collaborate on building scalable, secure, and innovative cloud solutions!
 
-📩 **Email me at [taofeekadeyemi22@gmail.com](mailto:taofeekadeyemi22@gmail.com)** or call **+1 416 835 4513**.
+📩 **Email me at [taofeekadeyemi22@gmail.com](mailto:taofeekadeyemi22@gmail.com)** 
 
 ---
 
